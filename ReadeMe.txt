@@ -1,0 +1,18 @@
+use chafil.exe to change the file 
+	
+          how :use cmd to open chafil.exe. input file name to be changed then ENTER,then input file name to be saved then ENTER.
+
+
+
+
+
+
+
+
+
+
+use recfil.exe to recover the file
+
+          how :use cmd to open recfil.exe. input file name to be recovered then ENTER,then input file name to be saved then ENTER.
+
+
